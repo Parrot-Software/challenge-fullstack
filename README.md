@@ -17,9 +17,7 @@ parrot/
 │   │   ├── api/
 │   │   └── manage.py
 │   └── requirements.txt
-└── docker/            # Docker configuration
-    ├── nginx/
-    └── postgres/
+└── docker-compose.yml  # Docker configuration
 ```
 
 ## Features
@@ -44,7 +42,6 @@ parrot/
 - Django
 - Django REST Framework
 - Simple JWT Authentication
-- SQLite Database
 
 ### Infrastructure
 - Docker

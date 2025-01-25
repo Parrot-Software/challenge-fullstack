@@ -21,4 +21,5 @@ Thumbs.db
 docker-compose.override.yml
 
 # Logs
-*.log 
+*.log
+node_modules
